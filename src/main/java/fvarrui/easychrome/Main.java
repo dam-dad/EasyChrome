@@ -12,7 +12,7 @@ public class Main {
 
 	public static void main(String[] args) throws IOException, InterruptedException, GeneralSecurityException {
 
-		ChromeCast cc = new ChromeCast("10.2.3.31");
+		ChromeCast cc = new ChromeCast("Cocina");
 
 		cc.connect();
 
